@@ -26,8 +26,8 @@
    - 3:方塊墜落彈
 
 #### 遊戲畫面
-![img](demo/demo1.JPG)
-![img](demo/demo3.JPG)
-![img](demo/demo2.JPG)
+![img](https://raw.githubusercontent.com/SSARCandy/Ultimate-Shooting-Flappy-Bird/master/demo/demo1.JPG)
+![img](https://raw.githubusercontent.com/SSARCandy/Ultimate-Shooting-Flappy-Bird/master/demo/demo3.JPG)
+![img](https://raw.githubusercontent.com/SSARCandy/Ultimate-Shooting-Flappy-Bird/master/demo/demo2.JPG)
 
 Tag: openGL, glut, 2D game, flappy bird, shooting game, NCCUCS-3D-game-programming
